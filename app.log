@@ -1,0 +1,20 @@
+2026-05-04 11:08:04,033 - INFO - 用户 test_stu 登录成功，角色 student
+2026-05-04 11:10:06,953 - WARNING - 登录失败：用户名 test_stu 角色 admin
+2026-05-04 11:10:11,674 - INFO - 用户 test_stu 登录成功，角色 student
+2026-05-04 11:33:09,550 - INFO - 用户 test_stu 登录成功，角色 student
+2026-05-04 11:33:42,033 - INFO - 用户 test_stu 登录成功，角色 student
+2026-05-04 13:07:27,897 - WARNING - 登录失败：用户名 test_stu 角色 student
+2026-05-04 13:07:31,512 - INFO - 用户 test_stu 登录成功，角色 student
+2026-05-04 13:07:56,440 - INFO - 用户 test_stu 登录成功，角色 student
+2026-05-04 13:11:23,374 - WARNING - 登录失败：用户名 test-stu 角色 student
+2026-05-04 13:11:36,168 - INFO - 用户 test_stu 登录成功，角色 student
+2026-05-04 13:14:36,201 - WARNING - 登录失败：用户名 test-stu 角色 student
+2026-05-04 13:14:50,139 - INFO - 用户 test_stu 登录成功，角色 student
+2026-05-04 13:17:38,814 - INFO - 用户 test_stu 登录成功，角色 student
+2026-05-04 13:18:10,402 - INFO - 用户 test_stu 登录成功，角色 student
+2026-05-04 13:22:19,275 - INFO - 用户 test_stu 登录成功，角色 student
+2026-05-04 13:27:38,778 - INFO - 用户 test_stu 登录成功，角色 student
+2026-05-04 13:29:16,155 - INFO - 用户 test_stu 登录成功，角色 student
+2026-05-04 13:30:56,445 - INFO - 用户 test_stu 登录成功，角色 student
+2026-05-04 13:31:05,357 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-05-04 13:31:33,430 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
